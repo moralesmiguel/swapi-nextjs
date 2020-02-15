@@ -1,0 +1,22 @@
+{
+  "name": "imperialsurvey",
+  "version": "1.0.0",
+  "description": "star wars website using next and an api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "author": "Miguel Morales",
+  "license": "ISC",
+  "dependencies": {
+    "isomorphic-unfetch": "3.0.0",
+    "next": "9.2.1",
+    "react": "16.12.0",
+    "react-dom": "16.12.0",
+    "react-typing-animation": "1.6.2",
+    "styled-jsx": "3.2.4"
+  }
+}
